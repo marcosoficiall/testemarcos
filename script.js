@@ -2,14 +2,14 @@ const projetos = [
     {
         titulo: "MVP Portfólio",
         descricao: "Este portfólio foi desenvolvido como Produto Mínimo Viável usando apenas HTML5, CSS3 e JavaScript.",
-        imagem: "img/projeto2.jpg",
+        imagem: "projeto2.jpg",
         tags: ["HTML5", "CSS", "JavaScript"],
         link: "#"
     },
     {
         titulo: "Prestadores de Serviço",
         descricao: "Sistema simples de prestatores de serviço local em José de Freiats - PI.",
-        imagem: "img/jfservice.png",
+        imagem: "jfservice.png",
         tags: ["JavaScript", "WhatsApp API", "Design Responsivo"],
         link: "#"
     },
